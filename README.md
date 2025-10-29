@@ -17,7 +17,7 @@ A comprehensive simulation platform for optical networks and interconnects featu
 
 ### From Source
 ```bash
-git clone https://github.com/yourusername/optical-network-simulator.git
-cd optical-network-simulator
+git clone https://github.com/USb-dB/OPTnetpy
+cd OPTnetpy
 pip install -r requirements.txt
 pip install -e .
